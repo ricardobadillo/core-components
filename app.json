@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "components-app",
-    "slug": "components-app",
+    "name": "core-components",
+    "slug": "core-components",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
